@@ -4,7 +4,7 @@ const s = 300;
 const size = 200;
 
 function setup() {
-	createCanvas(200, 200, WEBGL);
+	createCanvas(800, 800, WEBGL);
 	angleMode(DEGREES);
 	colorMode(255, 255, 255, 100);
 	rectMode(CENTER);
